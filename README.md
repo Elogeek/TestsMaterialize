@@ -1,0 +1,2 @@
+# TestsMaterialize
+discovery Materialize
