@@ -1,0 +1,22 @@
+{
+  "name": "testsmaterialize",
+  "version": "1.0.0",
+  "description": "discovery Materialize",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Elogeek/TestsMaterialize.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Elogeek/TestsMaterialize/issues"
+  },
+  "homepage": "https://github.com/Elogeek/TestsMaterialize#readme",
+  "dependencies": {
+    "jquery": "^3.6.0"
+  }
+}
